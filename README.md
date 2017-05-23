@@ -11,7 +11,7 @@ Usage
 
 To compile this decoder you need OpenCV (&ge; 2.0.0).
 
-In the project directory, run these commmands :
+In the project directory, run these commmand lines :
 ```
 mkdir build && cd build
 cmake ..
