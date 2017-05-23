@@ -3,7 +3,7 @@ DAHLIA-BodyIndex is a decoder for Body Index files from the DAHLIA dataset.
 
 This decoder convert raw binaries files in black and white tif images.
 
-- To learn more about DAHLIA, read the [article](https://lien vers article)
+- To learn more about DAHLIA, read the article
 - To download the DAHLIA dataset, visit us on the [mobilemii website](http://www-mobilemii.cea.fr)
 
 Usage
