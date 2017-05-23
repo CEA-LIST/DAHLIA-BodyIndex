@@ -1,5 +1,6 @@
 # DAHLIA-BodyIndex
 DAHLIA-BodyIndex is a decoder for Body Index files from the DAHLIA dataset.
+
 This decoder convert raw binaries files in black and white tif images.
 
 - To learn more about DAHLIA, read the [article](https://lien vers article)
